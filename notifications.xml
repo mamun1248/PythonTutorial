@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Pipfile Watcher" displayType="STICKY_BALLOON" />
+    <notification groupId="Python Compatibility Inspection Advertiser" displayType="STICKY_BALLOON" />
+  </component>
+</application>
